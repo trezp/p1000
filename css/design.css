@@ -4,6 +4,9 @@ body{
   color: #222;
 }
 
+li {
+  list-style-type: none;
+}
 .page{
   margin: 50px auto;
   width: 70%;
@@ -117,3 +120,7 @@ body{
       background-color: #4ba6c3;
       color: #fff;
     }
+
+.err-message {
+  font-size: 1.3em;
+}
